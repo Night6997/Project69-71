@@ -1,0 +1,30 @@
+.travel_mainHead{
+border:1px solid crimson;
+padding-left:0px;
+padding-right:0px;
+float:none;
+}
+.travel_mainHead img{
+width:100%;
+}
+.travel_mainHead hr{
+width:230px;
+}
+.travel_mainHead h5 , .travel_mainHead p{
+margin-left:20px;
+}
+.movie_head{
+font-size:20px;
+padding:6px 22px;
+border-radius:15px;
+margin-bottom:20px;
+width:100%;
+display:inline-block;
+}
+.movie_head i{
+float:right;
+color:white;
+}
+.move_text span{
+color:orange;
+}
