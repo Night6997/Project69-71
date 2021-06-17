@@ -28,3 +28,26 @@ color:white;
 .move_text span{
 color:orange;
 }
+.environment_1{
+margin-top:15px;
+}
+.environment_1 h4{
+border-bottom:1px solid white;
+padding:8px;
+}
+.environment_1 img{
+border-radius:25px;
+}
+.environment_1 p{
+margin-top:10px;
+}
+#contact iframe{
+width:100%;
+margin-top:100px;
+}
+.contact1 h3{
+display:inline;
+}
+.contact1 a{
+text-shadow:none;
+}
